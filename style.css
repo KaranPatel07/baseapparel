@@ -141,8 +141,8 @@ small{
     }
     .bg-mobile{
         display: block;
-        width:calc(100%+80px);
-        margin-left: -40px;
+        width:calc(100%+50px);
+        margin-left: 10px;
         margin-right:-40px;
     }
     h1{
